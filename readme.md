@@ -4,7 +4,7 @@
 
 * [Assertions](https://github.com/chris-hly/regular-expressions/blob/master/assertions.md)
 
-* [Boundaries](https://github.com/chris-hly/regular-expressions/blob/master/boundaries.md)
+* [Boundaries](/boudaries.md)
 
 * [Quenterfiers](/quenterfiers.md)
 
